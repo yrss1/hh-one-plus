@@ -17,7 +17,7 @@ async function main() {
 
         if (i.symbol === 'usdt') {
             row.classList.add('green-bg');
-        } else if (table.rows.length <= 6) {
+        } else if (table.rows.length <= 5) {
             row.classList.add('blue-bg');
         }
         table.appendChild(row);
