@@ -1,0 +1,5 @@
+get запросы
+
+localhost:8088/api/coins/ ---- get all coins
+localhost:8088/api/coins/ethereum ----- get coin by id (название coin вступает ввиде id)
+
